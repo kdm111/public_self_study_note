@@ -1,6 +1,6 @@
-# Self_study_note
-> 혼자 공부하는 내용을 정리하는 공간입니다.
-> 2021년 12월 18일 맥 os 테스트 깃 커밋 푸쉬 테스트
+# Public_Self_study_note
+
+저작권 문제가 있을만한 내용은 삭제 후 업로드하는 public용 self_study_note입니다.
 
 
 
